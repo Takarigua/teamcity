@@ -53,3 +53,10 @@
 8. Отправилось затем замерджил
 9. Ещё раз проверил pom на условия задания
 10. Затем пишу это и прикладываю скриншоты
+---
+![0](https://github.com/Takarigua/teamcity/blob/5bb4ff9a0f1e272db169f7674eb5f03b71278f70/screen/0.png)
+![1](https://github.com/Takarigua/teamcity/blob/5bb4ff9a0f1e272db169f7674eb5f03b71278f70/screen/1.png)
+![2](https://github.com/Takarigua/teamcity/blob/5bb4ff9a0f1e272db169f7674eb5f03b71278f70/screen/2.png)
+![3](https://github.com/Takarigua/teamcity/blob/5bb4ff9a0f1e272db169f7674eb5f03b71278f70/screen/3.png)
+![4](https://github.com/Takarigua/teamcity/blob/5bb4ff9a0f1e272db169f7674eb5f03b71278f70/screen/4.png)
+![5](https://github.com/Takarigua/teamcity/blob/5bb4ff9a0f1e272db169f7674eb5f03b71278f70/screen/5.png)
